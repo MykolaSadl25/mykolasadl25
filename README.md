@@ -56,7 +56,7 @@ Hey, I am Mykola and I am studying to a Frontend Developer!🖥💻
 
  **3rd Year:**
 - ![React](https://img.shields.io/badge/REACT-white?style=for-the-badge&logo=react&logoColor=white&logoSize=amd&labelColor=%2361DAFB&color=%2361DAFB)
-## Follow Me
+## Follow & Contact Me
 
 **Social Media**
 
@@ -65,6 +65,10 @@ Hey, I am Mykola and I am studying to a Frontend Developer!🖥💻
 [![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white&logoSize=amd&labelColor=%2326A5E4&color=%2326A5E4
 )](https://t.me/MykolaS_2511)
 
+**Email**
+
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=amd&labelColor=%23EA4335&color=%23EA4335
+)](mailto:mykolac08@gmail.com)
 
 ## Statistics📈📊
 [![MykolaSadl25's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykolaSadl25&layout=compact&theme=ambient_gradient)](https://github.com/MykolaSadl25/github-readme-stats)
