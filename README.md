@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Header
+
+
+[![Header](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/header.png)](https://github.com/MykolaSadl25)
 
 About Me
 
