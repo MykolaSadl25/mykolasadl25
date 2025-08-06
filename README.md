@@ -16,23 +16,23 @@ Hi, I'm **Mykola** — a 14-year-old aspiring Frontend Developer who loves turni
 ## Languages and Tools
 
 - ## Frontend 🖥️
-- ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=for-the-badge&logo=html5&logoColor=white&logoSize=amd&labelColor=%23E34F26&color=%23E34F26)
-- ![CSS](https://img.shields.io/badge/CSS-lightgrey?style=for-the-badge&logo=css3&logoColor=white&logoSize=amd&labelColor=%231572B6&color=%231572B6)
-- ![SCSS](https://img.shields.io/badge/sass-lightgrey?style=for-the-badge&logo=sass&logoColor=white&logoSize=amd&labelColor=%23CC6699&color=%23CC6699)
+- ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=html5&logoColor=white&logoSize=amd&labelColor=%23E34F26&color=%23E34F26)
+- ![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=css3&logoColor=white&logoSize=amd&labelColor=%231572B6&color=%231572B6)
+- ![SCSS](https://img.shields.io/badge/sass-lightgrey?style=flat-square&logo=sass&logoColor=white&logoSize=amd&labelColor=%23CC6699&color=%23CC6699)
 
 
 
 - ## Backend 🔙
-- ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&logoSize=amd&labelColor=%233776AB&color=%233776AB)
+- ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=white&logoSize=amd&labelColor=%233776AB&color=%233776AB)
 
 - ## Tools ⚙️
-- ![Vite](https://img.shields.io/badge/VITE-brightgreen?style=flat-square&logo=vite&logoColor=white&logoSize=auto&labelColor=%23646CFF&color=%23646CFF
+- ![Vite](https://img.shields.io/badge/VITE-white?style=flat-square&logo=vite&logoColor=white&logoSize=auto&labelColor=%23646CFF&color=%23646CFF
 )
 
-- ![Trello](https://img.shields.io/badge/TRELLO-brightgreen?style=flat-square&logo=trello&logoColor=white&logoSize=auto&labelColor=%230052CC&color=%230052CC
+- ![Trello](https://img.shields.io/badge/TRELLO-white?style=flat-square&logo=trello&logoColor=white&logoSize=auto&labelColor=%230052CC&color=%230052CC
 )
 
-- ![GitHub](https://img.shields.io/badge/GITHUB-brightgreen?style=flat-square&logo=github&logoColor=%23181717&logoSize=auto&labelColor=%23FFF&color=%23FFF
+- ![GitHub](https://img.shields.io/badge/GITHUB-white?style=flat-square&logo=github&logoColor=%23181717&logoSize=auto&labelColor=%23FFF&color=%23FFF
 )
 
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -44,7 +44,11 @@ Hi, I'm **Mykola** — a 14-year-old aspiring Frontend Developer who loves turni
 - **Grade:** 10th (turning 15 in November)
 - **Focus:** General studies, currently interested in Computer Science & Art
 
-## Learning Plan at Goiteens
+## 🎓 Certificates
+
+- [![Game of Teens 2025 Certificate](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/header.png)](https://github.com/MykolaSadl25)
+
+## 🏫 Learning Plan at Goiteens
 
  **1st Year:** 
 - ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=html5&logoColor=white&logoSize=amd&labelColor=%23E34F26&color=%23E34F26)
@@ -58,15 +62,25 @@ Hi, I'm **Mykola** — a 14-year-old aspiring Frontend Developer who loves turni
 
 ## ❤️FEATURED PROJECTS📌
 
-- 🖼️ [**RoomCraft**](https://github.com/MykolaSadl25/Game-of-teens_RoomCraft) - Room Planner WebApp
+- 🖼️ [**RoomCraft**](https://github.com/MykolaSadl25/Game-of-teens_RoomCraft) - Room Planner WebApp 
 
-- 🪑 [**Minimal**](https://github.com/MykolaSadl25/minimal) – My first team project about modern home designes
+🎉 RoomCraft took 5th place among 12 participants in the Frontend direction at the Game of Teens 2025 hackathon!
 
-- 💇‍♂️ [**BarberShop**](https://github.com/MykolaSadl25/BarberShop) - Test project about BarberShop in Kyiv 
+- 🪑 [**Minimal**](https://github.com/MykolaSadl25/minimal) – Modern and minimalist furniture for you
 
-- 🖥️ [**WebStudio**](https://github.com/MykolaSadl25/WebStudio-SCSS) - Homework project to practice learned skills
+First ever team project 
+
+- 💇‍♂️ [**BarberShop**](https://github.com/MykolaSadl25/BarberShop) - Best Barbershop in your city
+
+Test project to summarise all skills I've learned on block HTML/CSS
+
+- 🖥️ [**WebStudio**](https://github.com/MykolaSadl25/WebStudio-SCSS) - EFFECTIVE SOLUTIONS FOR YOUR BUSINESS
+
+Homework project to practice learned skills
 
 - 🏡 [**Interno**](https://github.com/MykolaSadl25/Interno) - Let's Create Your Dream Interior
+
+Test project to summarise all skills I've learned in first half of block HTML/CSS
 
 ## Follow & Contact Me
 
@@ -83,6 +97,8 @@ Hi, I'm **Mykola** — a 14-year-old aspiring Frontend Developer who loves turni
 )](mailto:mykolac08@gmail.com)
 
 ## Statistics📈📊
-[![MykolaSadl25's GitHub stats](https://github-readme-stats.vercel.app/api?username=MykolaSadl25&layout=compact&theme=ambient_gradient)](https://github.com/MykolaSadl25/github-readme-stats)
+![mykolasadl25's Stats](https://github-readme-stats.vercel.app/api?username=mykolasadl25&theme=merkok&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MykolaSadl25&layout=compact&theme=ambient_gradient)
+![mykolasadl25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mykolasadl25&theme=merkok&hide_border=true)
+
+![mykolasadl25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolasadl25&theme=merkok&show_icons=true&hide_border=true&layout=compact)
