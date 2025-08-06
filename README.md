@@ -46,7 +46,7 @@ Hi, I'm **Mykola** — a 14-year-old aspiring Frontend Developer who loves turni
 
 ## 🎓 Certificates
 
-- [![Game of Teens 2025 Certificate](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/certificates-hackathon.jpg)](https://github.com/MykolaSadl25)
+- [![Game of Teens 2025 Certificate](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/certificate-hackathon.jpg)
 
 ## 🏫 Learning Plan at Goiteens
 
