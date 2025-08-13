@@ -60,7 +60,7 @@ Hi, I'm **Mykola** — a 14-year-old aspiring Frontend Developer who loves turni
  **3rd Year:**
 - ![React](https://img.shields.io/badge/REACT-white?style=flat-square&logo=react&logoColor=white&logoSize=amd&labelColor=%2361DAFB&color=%2361DAFB)
 
-## ❤️FEATURED PROJECTS📌
+## ❤️Recent Projects📌
 
 - 🖼️ [**RoomCraft**](https://github.com/MykolaSadl25/Game-of-teens_RoomCraft) - Room Planner WebApp 
 
