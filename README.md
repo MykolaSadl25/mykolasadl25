@@ -99,6 +99,4 @@ Test project to summarise all skills I've learned in first half of block HTML/CS
 ## Statistics📈📊
 ![mykolasadl25's Stats](https://github-readme-stats.vercel.app/api?username=mykolasadl25&theme=merkok&show_icons=true&hide_border=true&count_private=true)
 
-![mykolasadl25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mykolasadl25&theme=merkok&hide_border=true)
-
 ![mykolasadl25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolasadl25&theme=merkok&show_icons=true&hide_border=true&layout=compact)
