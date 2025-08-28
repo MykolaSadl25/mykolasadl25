@@ -50,7 +50,7 @@ Hi, I'm **Mykola** — a 14-year-old aspiring Frontend Developer who loves turni
 
 ## 🏫 Learning Plan at Goiteens
 
- **1st Year:** 
+ **1st Year:** **COMPLETED** 
 - ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=html5&logoColor=white&logoSize=amd&labelColor=%23E34F26&color=%23E34F26)
 - ![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=css3&logoColor=white&logoSize=amd&labelColor=%231572B6&color=%231572B6)
 
