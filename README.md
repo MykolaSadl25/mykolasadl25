@@ -1,7 +1,7 @@
 [![Header](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/header.png)](https://github.com/MykolaSadl25)
 
 ## About Me
-Hi, I'm **Mykola** — a 14-year-old aspiring Frontend Developer who loves turning creative ideas into websites, learning new tech, and building cool stuff with code. 💻🎨🚀
+Hi, I'm **Mykola** — a 15-year-old aspiring Frontend Developer who loves turning creative ideas into websites, learning new tech, and building cool stuff with code. 💻🎨🚀
 
 ## 🎯 Hobbies & Interests
 
@@ -41,7 +41,7 @@ Hi, I'm **Mykola** — a 14-year-old aspiring Frontend Developer who loves turni
 
 ### 🏫 Education
 - **Currently learning at:** Goiteens
-- **Grade:** 10th (turning 15 in November)
+- **Grade:** 10th
 - **Focus:** General studies, currently interested in Computer Science & Art
 
 ## 🎓 Certificates
