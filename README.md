@@ -17,13 +17,13 @@ Hi, I'm **Mykola** — a 15-year-old aspiring Frontend Developer who loves turni
 
 - ## Frontend 🖥️
 - ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=html5&logoColor=white&logoSize=amd&labelColor=%23E34F26&color=%23E34F26)
-- ![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=css3&logoColor=white&logoSize=amd&labelColor=%231572B6&color=%231572B6)
-- ![SCSS](https://img.shields.io/badge/sass-lightgrey?style=flat-square&logo=sass&logoColor=white&logoSize=amd&labelColor=%23CC6699&color=%23CC6699)
+- ![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=css&logoColor=white&logoSize=amd&labelColor=%231572B6&color=%231572B6)
+- ![SCSS](https://img.shields.io/badge/SASS-lightgrey?style=flat-square&logo=sass&logoColor=white&logoSize=amd&labelColor=%23CC6699&color=%23CC6699)
 
 
 
 - ## Backend 🔙
-- ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=white&logoSize=amd&labelColor=%233776AB&color=%233776AB)
+- ![Python](https://img.shields.io/badge/PYTHON-white?style=flat-square&logo=python&logoColor=white&logoSize=amd&labelColor=%233776AB&color=%233776AB)
 
 - ## Tools ⚙️
 - ![Vite](https://img.shields.io/badge/VITE-white?style=flat-square&logo=vite&logoColor=white&logoSize=auto&labelColor=%23646CFF&color=%23646CFF
@@ -35,9 +35,11 @@ Hi, I'm **Mykola** — a 15-year-old aspiring Frontend Developer who loves turni
 - ![GitHub](https://img.shields.io/badge/GITHUB-white?style=flat-square&logo=github&logoColor=%23181717&logoSize=auto&labelColor=%23FFF&color=%23FFF
 )
 
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+- ![Icomoon](https://img.shields.io/badge/ICOMOON-blue?style=flat-square&logo=icomoon&logoColor=white&logoSize=auto&labelColor=%23825794&color=%23825794)
+
+- ![Bootstrap](https://img.shields.io/badge/-BOOTSTAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🏫 Education
 - **Currently learning at:** Goiteens
@@ -89,7 +91,7 @@ Test project to summarise all skills I've learned in first half of block HTML/CS
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram&logoColor=white&logoSize=amd&labelColor=%23FF0069&color=%23FF0069
 )](https://www.instagram.com/mykolasadlii/)
 [![Telegram](https://img.shields.io/badge/Telegram-white?style=flat-square&logo=telegram&logoColor=white&logoSize=amd&labelColor=%2326A5E4&color=%2326A5E4
-)](https://t.me/MykolaS_2511)
+)](https://t.me/MS_2511)
 
 **Email**
 
