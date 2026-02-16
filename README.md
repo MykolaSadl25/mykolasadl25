@@ -3,14 +3,14 @@
 ## Hello there and welcome to my profile!
 ## About Me
 My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff. Right now I am learning at Goiteens on course Frontend and already know **HTML**, **CSS/SCSS**, **JS** and a bit of **Python**. Even though, I am really young, I already have an experience of being a **Team Lead** in two projects([**Minimal**](https://github.com/MykolaSadl25/minimal) and [**Coding Magic**](https://github.com/MykolaSadl25/Coding-Magic)).I keep on learning to one day reach my dream - become a Full Stack Developer
-<!-- Hi, I'm **Mykola** — a 15-year-old aspiring Frontend Developer who loves turning creative ideas into websites, learning new tech, and building cool stuff with code. 💻🎨🚀 -->
+
 
 ## 🎯 Hobbies & Interests
 
-- 🎵 **Music** – Yes, music is the only thing that sometimes keeps me alive, thats why its a re  
-- 💻 **Coding** – I love building things from scratch, especially websites and UI experiments.  
+- 🎵 **Music** – Yes, music is the only thing that sometimes keeps me alive, thats why its a really important for me🎧
+- 💻 **Coding** – I love building things from scratch, especially websites.  
 - 🎨 **Drawing** – I enjoy sketching characters, scenes, and creative concepts.  
-- 🎮 **Gaming** – A big fan of games! They inspire my creativity and UI ideas.  
+- 🎮 **Gaming** – A big fan of games! They inspire my creativity.  
 - 📚 **Reading** – Learning through books or articles, both fiction and tech-related.  
 - 😴 **Sleeping** – Yes, I’m a nap master. Recharge is important. 😌
 
@@ -27,7 +27,7 @@ My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff
 - ## Backend 🔙
 - ![Python](https://img.shields.io/badge/PYTHON-white?style=flat-square&logo=python&logoColor=white&logoSize=amd&labelColor=%233776AB&color=%233776AB)
 
-- ## Tools ⚙️
+ ## Tools ⚙️
 - ![Vite](https://img.shields.io/badge/VITE-white?style=flat-square&logo=vite&logoColor=white&logoSize=auto&labelColor=%23646CFF&color=%23646CFF
 )
 
@@ -43,14 +43,15 @@ My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff
 
 - ![Bootstrap](https://img.shields.io/badge/-BOOTSTAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 🏫 Education
+## 🏫 Education
 - **Currently learning at:** Goiteens and School
 - **Year:** 10
-- **Focus:** General studies, currently interested in **Computer Science**,**Biology** and **Chemistry**
+- **Focus:** General studies, currently interested in **Computer Science**💻 ,**Biology**🧬 and **Chemistry**🧪
 
 ## 🎓 Certificates
 
-- ![Game of Teens 2025 Certificate](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/certificate-hackathon-eng.png)
+- ![HTML CSS certificate](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/certificate%20html%20css.png)
+- ![Hackathon certificate](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/certificate-hackathon-eng.png)
 
 ## 🏫 Learning Plan at Goiteens
 
@@ -68,23 +69,14 @@ My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff
 
 - 🖼️ [**RoomCraft**](https://github.com/MykolaSadl25/Game-of-teens_RoomCraft) - Room Planner WebApp 
 
-🎉 RoomCraft took 5th place among 12 participants in the Frontend direction at the Game of Teens 2025 hackathon!
-
 - 🪑 [**Minimal**](https://github.com/MykolaSadl25/minimal) – Modern and minimalist furniture for you
 
-First ever team project 
 
 - 💇‍♂️ [**BarberShop**](https://github.com/MykolaSadl25/BarberShop) - Best Barbershop in your city
 
-Test project to summarise all skills I've learned on block HTML/CSS
+- 🥤[**Smoothie Zone**](https://github.com/MykolaSadl25/smoothie.zone) - Here we have a range of refreshing and delicious smoothies, made from fresh fruit and juice.
 
-- 🖥️ [**WebStudio**](https://github.com/MykolaSadl25/WebStudio-SCSS) - EFFECTIVE SOLUTIONS FOR YOUR BUSINESS
-
-Homework project to practice learned skills
-
-- 🏡 [**Interno**](https://github.com/MykolaSadl25/Interno) - Let's Create Your Dream Interior
-
-Test project to summarise all skills I've learned in first half of block HTML/CSS
+- ✨[**Coding Magic**](https://github.com/MykolaSadl25/Coding-Magic) - The most popular mini-games in the world
 
 ## Follow & Contact Me
 
