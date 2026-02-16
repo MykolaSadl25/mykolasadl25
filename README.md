@@ -1,11 +1,13 @@
 [![Header](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/header.png)](https://github.com/MykolaSadl25)
 
+## Hello there and welcome to my profile!
 ## About Me
-Hi, I'm **Mykola** — a 15-year-old aspiring Frontend Developer who loves turning creative ideas into websites, learning new tech, and building cool stuff with code. 💻🎨🚀
+My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff. Right now I am learning at Goiteens on course Frontend and already know **HTML**, **CSS/SCSS**, **JS** and a bit of **Python**. Even though, I am really young, I already have an experience of being a **Team Lead** in two projects([**Minimal**](https://github.com/MykolaSadl25/minimal) and [**Coding Magic**](https://github.com/MykolaSadl25/Coding-Magic)).I keep on learning to one day reach my dream - become a Full Stack Developer
+<!-- Hi, I'm **Mykola** — a 15-year-old aspiring Frontend Developer who loves turning creative ideas into websites, learning new tech, and building cool stuff with code. 💻🎨🚀 -->
 
 ## 🎯 Hobbies & Interests
 
-- 🎵 **Music** – Whether it’s listening while coding or just vibing, music fuels my creativity.  
+- 🎵 **Music** – Yes, music is the only thing that sometimes keeps me alive, thats why its a re  
 - 💻 **Coding** – I love building things from scratch, especially websites and UI experiments.  
 - 🎨 **Drawing** – I enjoy sketching characters, scenes, and creative concepts.  
 - 🎮 **Gaming** – A big fan of games! They inspire my creativity and UI ideas.  
@@ -42,9 +44,9 @@ Hi, I'm **Mykola** — a 15-year-old aspiring Frontend Developer who loves turni
 - ![Bootstrap](https://img.shields.io/badge/-BOOTSTAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🏫 Education
-- **Currently learning at:** Goiteens
-- **Grade:** 10th
-- **Focus:** General studies, currently interested in Computer Science & Art
+- **Currently learning at:** Goiteens and School
+- **Year:** 10
+- **Focus:** General studies, currently interested in **Computer Science**,**Biology** and **Chemistry**
 
 ## 🎓 Certificates
 
