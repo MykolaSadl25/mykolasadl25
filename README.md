@@ -93,6 +93,8 @@ My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff
 )](mailto:mykolac08@gmail.com)
 
 ## Statistics📈📊
-![mykolasadl25's Stats](https://github-readme-stats.vercel.app/api?username=mykolasadl25&theme=merkok&show_icons=true&hide_border=true&count_private=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MykolaSadl25?cardType=level&theme=github-dark&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![mykolasadl25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolasadl25&theme=merkok&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MykolaSadl25&theme=default&show_icons=true&hide_border=true&layout=compact)
