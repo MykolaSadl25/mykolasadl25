@@ -1,47 +1,54 @@
-[![Header](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/header.png)](https://github.com/MykolaSadl25)
 
 ## Hello there and welcome to my profile!
-## About Me
+## 🧑 About Me
 My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff. Right now I am learning at Goiteens on course Frontend and already know **HTML**, **CSS/SCSS**, **JS** and a bit of **Python**. Even though, I am really young, I already have an experience of being a **Team Lead** in two projects([**Minimal**](https://github.com/MykolaSadl25/minimal) and [**Coding Magic**](https://github.com/MykolaSadl25/Coding-Magic)).I keep on learning to one day reach my dream - become a Full Stack Developer
 
 
 ## 🎯 Hobbies & Interests
 
 - 🎵 **Music** – Yes, music is the only thing that sometimes keeps me alive, thats why its a really important for me🎧
-- 💻 **Coding** – I love building things from scratch, especially websites.  
-- 🎨 **Drawing** – I enjoy sketching characters, scenes, and creative concepts.  
-- 🎮 **Gaming** – A big fan of games! They inspire my creativity.  
+- 💻 **Coding** – I love building things from scratch, especially websites.   
 - 📚 **Reading** – Learning through books or articles, both fiction and tech-related.  
 - 😴 **Sleeping** – Yes, I’m a nap master. Recharge is important. 😌
 
 
-## Languages and Tools
+## ⚙️ Languages
 
 - ## Frontend 🖥️
-- ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=html5&logoColor=white&logoSize=amd&labelColor=%23E34F26&color=%23E34F26)
-- ![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=css&logoColor=white&logoSize=amd&labelColor=%231572B6&color=%231572B6)
-- ![SCSS](https://img.shields.io/badge/SASS-lightgrey?style=flat-square&logo=sass&logoColor=white&logoSize=amd&labelColor=%23CC6699&color=%23CC6699)
+- ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat&logo=html5&logoColor=white&logoSize=amd&labelColor=%23E34F26&color=%23E34F26)
+- ![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat&logo=css&logoColor=white&logoSize=amd&labelColor=%231572B6&color=%231572B6)
+- ![SCSS](https://img.shields.io/badge/SASS-lightgrey?style=flat&logo=sass&logoColor=white&logoSize=amd&labelColor=%23CC6699&color=%23CC6699)
+- ![JS](https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=white&logoSize=amd&labelColor=%23F7DF1E&color=%23F7DF1E)
 
+- ![JSON](https://img.shields.io/badge/JSON-passing?style=flat&logo=json&logoColor=white&labelColor=%23000000&color=%23000000
+)
 
 
 - ## Backend 🔙
-- ![Python](https://img.shields.io/badge/PYTHON-white?style=flat-square&logo=python&logoColor=white&logoSize=amd&labelColor=%233776AB&color=%233776AB)
+- ![Python](https://img.shields.io/badge/PYTHON-white?style=flat&logo=python&logoColor=white&logoSize=amd&labelColor=%233776AB&color=%233776AB)
 
  ## Tools ⚙️
-- ![Vite](https://img.shields.io/badge/VITE-white?style=flat-square&logo=vite&logoColor=white&logoSize=auto&labelColor=%23646CFF&color=%23646CFF
+- ![Vite](https://img.shields.io/badge/VITE-white?style=flat&logo=vite&logoColor=white&logoSize=auto&labelColor=%23646CFF&color=%23646CFF
 )
 
-- ![Trello](https://img.shields.io/badge/TRELLO-white?style=flat-square&logo=trello&logoColor=white&logoSize=auto&labelColor=%230052CC&color=%230052CC
+- ![Trello](https://img.shields.io/badge/TRELLO-white?style=flat&logo=trello&logoColor=white&logoSize=auto&labelColor=%230052CC&color=%230052CC
 )
 
-- ![GitHub](https://img.shields.io/badge/GITHUB-white?style=flat-square&logo=github&logoColor=%23181717&logoSize=auto&labelColor=%23FFF&color=%23FFF
+- ![GitHub](https://img.shields.io/badge/GITHUB-white?style=flat&logo=github&logoColor=%23181717&logoSize=auto&labelColor=%23FFF&color=%23FFF
 )
 
-- ![Figma](https://img.shields.io/badge/-FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
 
-- ![Icomoon](https://img.shields.io/badge/ICOMOON-blue?style=flat-square&logo=icomoon&logoColor=white&logoSize=auto&labelColor=%23825794&color=%23825794)
+- ![Bootstrap](https://img.shields.io/badge/-BOOTSTAP-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-- ![Bootstrap](https://img.shields.io/badge/-BOOTSTAP-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+- ![Lodash](https://img.shields.io/badge/Lodash-passing?style=flat&logo=lodash&logoColor=white&labelColor=%233492FF&color=%233492FF)
+
+- ![Chart.js](https://img.shields.io/badge/Chart.js-passing?style=flat&logo=chartdotjs&logoColor=white&labelColor=%23FF6384&color=%23FF6384)
+
+- ![NPM](https://img.shields.io/badge/NPM-passing?style=flat&logo=npm&logoColor=white&labelColor=%23CB3837&color=%23CB3837)
+
+- ![HandleBars](https://img.shields.io/badge/HandleBars-passing?style=flat&logo=handlebarsdotjs&logoColor=white&labelColor=orange&color=orange)
+
 
 ## 🏫 Education
 - **Currently learning at:** Goiteens and School
@@ -56,21 +63,20 @@ My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff
 ## 🏫 Learning Plan at Goiteens
 
  **1st Year:** **COMPLETED** 
-- ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat-square&logo=html5&logoColor=white&logoSize=amd&labelColor=%23E34F26&color=%23E34F26)
-- ![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat-square&logo=css3&logoColor=white&logoSize=amd&labelColor=%231572B6&color=%231572B6)
+- ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat&logo=html5&logoColor=white&logoSize=amd&labelColor=%23E34F26&color=%23E34F26)
+- ![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat&logo=css3&logoColor=white&logoSize=amd&labelColor=%231572B6&color=%231572B6)
 
  **2nd Year:** 
-- ![JS](https://img.shields.io/badge/JavaScript-lightgrey?style=flat-square&logo=javascript&logoColor=white&logoSize=amd&labelColor=%23F7DF1E&color=%23F7DF1E)
+- ![JS](https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=white&logoSize=amd&labelColor=%23F7DF1E&color=%23F7DF1E)
 
  **3rd Year:**
-- ![React](https://img.shields.io/badge/REACT-white?style=flat-square&logo=react&logoColor=white&logoSize=amd&labelColor=%2361DAFB&color=%2361DAFB)
+- ![React](https://img.shields.io/badge/REACT-white?style=flat&logo=react&logoColor=white&logoSize=amd&labelColor=%2361DAFB&color=%2361DAFB)
 
 ## ❤️Recent Projects📌
 
 - 🖼️ [**RoomCraft**](https://github.com/MykolaSadl25/Game-of-teens_RoomCraft) - Room Planner WebApp 
 
 - 🪑 [**Minimal**](https://github.com/MykolaSadl25/minimal) – Modern and minimalist furniture for you
-
 
 - 💇‍♂️ [**BarberShop**](https://github.com/MykolaSadl25/BarberShop) - Best Barbershop in your city
 
@@ -82,19 +88,17 @@ My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff
 
 **Social Media**
 
-[![Instagram](https://img.shields.io/badge/Instagram-white?style=flat-square&logo=instagram&logoColor=white&logoSize=amd&labelColor=%23FF0069&color=%23FF0069
+[![Instagram](https://img.shields.io/badge/Instagram-white?style=flat&logo=instagram&logoColor=white&logoSize=amd&labelColor=%23FF0069&color=%23FF0069
 )](https://www.instagram.com/mykolasadlii/)
-[![Telegram](https://img.shields.io/badge/Telegram-white?style=flat-square&logo=telegram&logoColor=white&logoSize=amd&labelColor=%2326A5E4&color=%2326A5E4
-)](https://t.me/MS_2511)
+[![Telegram](https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram&logoColor=white&logoSize=amd&labelColor=%2326A5E4&color=%2326A5E4
+)](https://t.me/msadlii25)
 
 **Email**
 
-[![Gmail](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=white&logoSize=amd&labelColor=%23EA4335&color=%23EA4335
+[![Gmail](https://img.shields.io/badge/Email-white?style=flat&logo=gmail&logoColor=white&logoSize=amd&labelColor=%23EA4335&color=%23EA4335
 )](mailto:mykolac08@gmail.com)
 
 ## Statistics📈📊
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MykolaSadl25?cardType=level&theme=github-dark&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
-
-![mykolasadl25's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mykolasadl25&theme=merkok&show_icons=true&hide_border=true&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MykolaSadl25&theme=default&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MykolaSadl25&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=MykolaSadl25&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MykolaSadl25&layout=compact&theme=dracula)
