@@ -1,7 +1,7 @@
 
 ## Hello there and welcome to my profile!
 ## 🧑 About Me
-My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff. Right now I am learning at Goiteens on course Frontend and already know **HTML**, **CSS/SCSS**, **JS** and a bit of **Python**. Even though, I am really young, I already have an experience of being a **Team Lead** in two projects([**Minimal**](https://github.com/MykolaSadl25/minimal) and [**Coding Magic**](https://github.com/MykolaSadl25/Coding-Magic)).I keep on learning to one day reach my dream - become a Full Stack Developer
+My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff. Right now I am learning at Goiteens on course Frontend and already know **HTML**, **CSS/SCSS**, **JS** and a bit of **Python**. Even though, I am really young, I already have an experience of being a **Team Lead** in three projects([**Minimal**](https://github.com/MykolaSadl25/minimal),[**Coding Magic**](https://github.com/MykolaSadl25/Coding-Magic) and [**Event Booster**](https://github.com/MykolaSadl25/event-booster)).I keep on learning to one day reach my dream - become a Full Stack Developer
 
 
 ## 🎯 Hobbies & Interests
@@ -66,7 +66,7 @@ My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff
 - ![HTML](https://img.shields.io/badge/HTML-lightgrey?style=flat&logo=html5&logoColor=white&logoSize=amd&labelColor=%23E34F26&color=%23E34F26)
 - ![CSS](https://img.shields.io/badge/CSS-lightgrey?style=flat&logo=css3&logoColor=white&logoSize=amd&labelColor=%231572B6&color=%231572B6)
 
- **2nd Year:** 
+ **2nd Year:** **COMPLETED** 
 - ![JS](https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=white&logoSize=amd&labelColor=%23F7DF1E&color=%23F7DF1E)
 
  **3rd Year:**
