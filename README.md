@@ -61,6 +61,8 @@ My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff
 
 - ![HTML CSS certificate](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/certificate%20html%20css.png)
 - ![Hackathon certificate](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/certificate-hackathon-eng.png)
+- ![JS](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/certificate%202.png)
+- ![JS2](https://github.com/MykolaSadl25/mykolasadl25/blob/main/assets/certificate.png)
 
 ## 🏫 Learning Plan at Goiteens
 
