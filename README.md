@@ -9,7 +9,7 @@ My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff
 - 🎵 **Music** – Yes, music is the only thing that sometimes keeps me alive, thats why its a really important for me🎧
 - 💻 **Coding** – I love building things from scratch, especially websites.   
 - 📚 **Reading** – Learning through books or articles, both fiction and tech-related.  
-- 😴 **Sleeping** – Yes, I’m a nap master. Recharge is important. 😌
+- 😴 **Sleeping** – Recharge is important. 😌
 
 
 ## ⚙️ Languages
@@ -21,6 +21,8 @@ My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff
 - ![JS](https://img.shields.io/badge/JavaScript-lightgrey?style=flat&logo=javascript&logoColor=white&logoSize=amd&labelColor=%23F7DF1E&color=%23F7DF1E)
 
 - ![JSON](https://img.shields.io/badge/JSON-passing?style=flat&logo=json&logoColor=white&labelColor=%23000000&color=%23000000
+)
+- ![REACT](https://img.shields.io/badge/REACT-lightgrey?style=flat&logo=react&logoColor=white&color=%2361DAFB
 )
 
 
@@ -78,11 +80,9 @@ My name is Mykola Sadlii and I am 15 years old. I really enjoy programming stuff
 
 - 🪑 [**Minimal**](https://github.com/MykolaSadl25/minimal) – Modern and minimalist furniture for you
 
-- 💇‍♂️ [**BarberShop**](https://github.com/MykolaSadl25/BarberShop) - Best Barbershop in your city
-
-- 🥤[**Smoothie Zone**](https://github.com/MykolaSadl25/smoothie.zone) - Here we have a range of refreshing and delicious smoothies, made from fresh fruit and juice.
-
 - ✨[**Coding Magic**](https://github.com/MykolaSadl25/Coding-Magic) - The most popular mini-games in the world
+
+- 💃 [**Event Booster**](https://github.com/MykolaSadl25/event-booster) - FIND BEST EVENTS AROUND THE WORLD
 
 ## Follow & Contact Me
 
